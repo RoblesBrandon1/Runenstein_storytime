@@ -1,23 +1,23 @@
-Raesfeld – Raesfeld (A town in Germany) 
-Flughafen – Airport
-Berlin – Berlin 
-Bratwurst – German sausage
-Hauptstrasse – Main Street
-Brot – Bread
-Klimaanlage – Air conditioner
-Rammstein – Rammstein 
-Porsche – Porsche 
-BMW – BMW 
-Biergarten – Beer garden
-Ratskeller – Town hall cellar 
-Dirndel – Dirndl (Bavarian/Austrian dress)
-Lederhose – Leather pants 
-Schloss – Castle or palace
-wettbewerbsfähig – Competitive
-Mehlhase – Flour rabbit 
-Gebäck – Pastry or baked goods
-Bäckerei – Bakery
-Hund – Dog
-Döner – Döner (a type of Turkish kebab)
 Apfelkuchen – Apple cake
+Bäckerei – Bakery
+Berlin – Berlin 
+Biergarten – Beer garden
+Bratwurst – German sausage
+Brot – Bread
+BMW – BMW 
+Dirndel – Dirndl (Bavarian/Austrian dress)
+Döner – Döner (a type of Turkish kebab)
+Flughafen – Airport
+Gebäck – Pastry or baked goods
+Hauptstrasse – Main Street
+Hund – Dog
+Klimaanlage – Air conditioner
+Lederhose – Leather pants 
+Mehlhase – Flour rabbit 
+Porsche – Porsche 
+Raesfeld – Raesfeld (A town in Germany) 
+Rammstein – Rammstein 
+Ratskeller – Town hall cellar 
+Schloss – Castle or palace
 Schloss Eltz – Eltz Castle (a famous castle in Germany)
+wettbewerbsfähig – Competitive
